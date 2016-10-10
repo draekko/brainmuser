@@ -3,5 +3,5 @@ This is an Android App developed from Muse Development SDK that tests the mind o
 
 This project is created at HackHamp 2016.
 
-Contributer: Dan. 
+Contributer: Dan Pollak and Hoang Nguyen. 
 
