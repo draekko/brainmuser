@@ -1,0 +1,275 @@
+[
+    {
+        "outputFile": "C:\\Users\\Hoang\\AndroidStudioProjects\\TestLibMuseAndroid\\TestLibMuse\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Hoang\\AndroidStudioProjects\\TestLibMuseAndroid\\TestLibMuse\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\Hoang\\AndroidStudioProjects\\TestLibMuseAndroid\\TestLibMuse\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 53,
+                    "endOffset": 218
+                },
+                "from": {
+                    "file": "C:\\Users\\Hoang\\AndroidStudioProjects\\TestLibMuseAndroid\\TestLibMuse\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 223,
+                    "endColumn": 57,
+                    "endOffset": 276
+                },
+                "from": {
+                    "file": "C:\\Users\\Hoang\\AndroidStudioProjects\\TestLibMuseAndroid\\TestLibMuse\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 57,
+                        "endOffset": 217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 281,
+                    "endColumn": 54,
+                    "endOffset": 331
+                },
+                "from": {
+                    "file": "C:\\Users\\Hoang\\AndroidStudioProjects\\TestLibMuseAndroid\\TestLibMuse\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 54,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 336,
+                    "endColumn": 51,
+                    "endOffset": 383
+                },
+                "from": {
+                    "file": "C:\\Users\\Hoang\\AndroidStudioProjects\\TestLibMuseAndroid\\TestLibMuse\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 388,
+                    "endColumn": 43,
+                    "endOffset": 427
+                },
+                "from": {
+                    "file": "C:\\Users\\Hoang\\AndroidStudioProjects\\TestLibMuseAndroid\\TestLibMuse\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 432,
+                    "endColumn": 49,
+                    "endOffset": 477
+                },
+                "from": {
+                    "file": "C:\\Users\\Hoang\\AndroidStudioProjects\\TestLibMuseAndroid\\TestLibMuse\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 482,
+                    "endColumn": 37,
+                    "endOffset": 515
+                },
+                "from": {
+                    "file": "C:\\Users\\Hoang\\AndroidStudioProjects\\TestLibMuseAndroid\\TestLibMuse\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 520,
+                    "endColumn": 41,
+                    "endOffset": 557
+                },
+                "from": {
+                    "file": "C:\\Users\\Hoang\\AndroidStudioProjects\\TestLibMuseAndroid\\TestLibMuse\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 562,
+                    "endColumn": 52,
+                    "endOffset": 610
+                },
+                "from": {
+                    "file": "C:\\Users\\Hoang\\AndroidStudioProjects\\TestLibMuseAndroid\\TestLibMuse\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 615,
+                    "endColumn": 40,
+                    "endOffset": 651
+                },
+                "from": {
+                    "file": "C:\\Users\\Hoang\\AndroidStudioProjects\\TestLibMuseAndroid\\TestLibMuse\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 656,
+                    "endColumn": 56,
+                    "endOffset": 708
+                },
+                "from": {
+                    "file": "C:\\Users\\Hoang\\AndroidStudioProjects\\TestLibMuseAndroid\\TestLibMuse\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 713,
+                    "endColumn": 47,
+                    "endOffset": 756
+                },
+                "from": {
+                    "file": "C:\\Users\\Hoang\\AndroidStudioProjects\\TestLibMuseAndroid\\TestLibMuse\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 761,
+                    "endColumn": 46,
+                    "endOffset": 803
+                },
+                "from": {
+                    "file": "C:\\Users\\Hoang\\AndroidStudioProjects\\TestLibMuseAndroid\\TestLibMuse\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 808,
+                    "endColumn": 43,
+                    "endOffset": 847
+                },
+                "from": {
+                    "file": "C:\\Users\\Hoang\\AndroidStudioProjects\\TestLibMuseAndroid\\TestLibMuse\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 852,
+                    "endColumn": 53,
+                    "endOffset": 901
+                },
+                "from": {
+                    "file": "C:\\Users\\Hoang\\AndroidStudioProjects\\TestLibMuseAndroid\\TestLibMuse\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 906,
+                    "endColumn": 45,
+                    "endOffset": 947
+                },
+                "from": {
+                    "file": "C:\\Users\\Hoang\\AndroidStudioProjects\\TestLibMuseAndroid\\TestLibMuse\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 952,
+                    "endColumn": 44,
+                    "endOffset": 992
+                },
+                "from": {
+                    "file": "C:\\Users\\Hoang\\AndroidStudioProjects\\TestLibMuseAndroid\\TestLibMuse\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 997,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1283
+                },
+                "from": {
+                    "file": "C:\\Users\\Hoang\\AndroidStudioProjects\\TestLibMuseAndroid\\TestLibMuse\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1288,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1443
+                },
+                "from": {
+                    "file": "C:\\Users\\Hoang\\AndroidStudioProjects\\TestLibMuseAndroid\\TestLibMuse\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]
